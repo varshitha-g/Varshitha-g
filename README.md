@@ -17,7 +17,7 @@
 
 ## 💼 Professional Summary
 
-Experienced Data Scientist with expertise in building end-to-end ML pipelines and scalable analytics solutions. Proven track record of delivering high-impact projects that drive business value through data-driven insights. Specialized in big data technologies, advanced analytics, and interactive dashboard development.
+Results-driven  Data Scientist with expertise in building end-to-end ML pipelines and scalable analytics solutions. Proven track record of delivering high-impact projects that drive business value through data-driven insights. Specialized in big data technologies, advanced analytics, and interactive dashboard development.
 
 **Key Achievements:**
 - Built ETL pipelines processing 1M+ records, reducing data latency by 80%
