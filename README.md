@@ -147,39 +147,6 @@ business_impact = "Real-time insights for million-package operations"
 - Real-time scoring API for customer risk assessment
 - Actionable insights dashboard for retention teams
 
-### 🏥 **[Healthcare Analytics Engine](./healthcare-analytics)**
-**Impact**: *HIPAA-compliant patient outcome optimization*
-
-```yaml
-🎯 Challenge: Fragmented healthcare data limiting treatment insights
-🚀 Solution: Secure ETL pipelines + predictive analytics
-📈 Result: 30% improvement in treatment adherence predictions
-🛠️ Tech: Databricks, AWS Glue, Prophet, Delta Lake
-```
-
-**Key Features:**
-- HIPAA-compliant data processing workflows
-- Patient journey analytics and outcome prediction
-- Automated anomaly detection in treatment patterns
-- Secure APIs for clinical decision support
-
-### 🚛 **[Logistics Intelligence Platform](./logistics-intelligence)**
-**Impact**: *Optimizing million-package operations in real-time*
-
-```yaml
-🎯 Challenge: Complex logistics data scattered across systems
-🚀 Solution: Unified data lake + ML-powered insights
-📈 Result: Real-time visibility into global operations
-🛠️ Tech: PySpark, Delta Lake, Apache Kafka, AWS
-```
-
-**Key Features:**
-- Real-time package tracking and route optimization
-- Fraud detection algorithms for suspicious activities
-- Demand forecasting for capacity planning
-- Interactive operations dashboard with alerts
-
----
 
 ## 📊 **By the Numbers - My Data Story**
 
