@@ -45,7 +45,7 @@
 
 ## 💼 **Professional Journey**
 
-### 🚀 **Senior Data Engineer @ FedEx** *(Current - Jan 2025)*
+### 🚀 **Data Engineer @ FedEx** *(Current - Jan 2025)*
 *Architecting the backbone of logistics intelligence*
 
 ```python
